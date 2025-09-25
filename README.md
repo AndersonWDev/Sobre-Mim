@@ -23,8 +23,8 @@ Olá! Meu nome é **Anderson Pereira Oliveira**. Sou **Desenvolvedor Web Full-St
 
 ## 🌐 Contato
 - **Email:** andersonpoliveira33@gmail.com  
-- **LinkedIn:** [linkedin.com/in/andersonpoliveira](https://linkedin.com/in/andersonpoliveira)  
-- **GitHub:** [github.com/AndersonDev](https://github.com/AndersonDev)  
+- **LinkedIn:** [linkedin.com/in/andersonpoliveira]([https://linkedin.com/in/andersonpoliveira](https://www.linkedin.com/in/anderson-pereira-oliveira-647985385/))  
+- **GitHub:** [github.com/AndersonWDev](https://github.com/AndersonWDev)  
 
 ---
 
