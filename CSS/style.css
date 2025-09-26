@@ -31,7 +31,7 @@ header{
     width: 100%;
     z-index: 1000;
     padding: 40px 4%;
-    background-color: var(--bg); /* importante para não ficar transparente */
+    background-color: var(--bg);
     height: 20vh;
 }
 header > .interface{
@@ -581,10 +581,12 @@ footer{
     gap: 10px;
     text-align: center;
   }
+  header{
+    font-size: 0.8rem;
+  }
 
-  .btn-contato button {
-    padding: 8px 20px;
-    font-size: 16px;
+  header .btn-contato  button{
+    padding: 8px 15px;
   }
   h1, h2 {
     font-size: clamp(1.2rem, 5vw, 1.6rem);
@@ -595,15 +597,33 @@ footer{
 }
 
 @media (max-width: 320px) {
+  body{
+    font-size: 0.8rem;
+  }
+  .logo-text{
+    font-size: 1.35rem;
+  }
+  header{
+    font-size: 0.8rem;
+  }
+  .principal p{
+    margin-bottom: 15px;
+  }
+  .contato{
+    align-items: center;
+    justify-content: center;
+    width: 45vw;
+  }
+  header .btn-contato  button{
+    padding: 8px 2px 8px 2px;
+    width: 25vw;
+    font-size: 0.75rem;
+  }
   .projeto {
     max-width: 220px;
   }
   #descricao {
     font-size: clamp(0.7rem, 3vw, 0.9rem);
     padding: 10px;
-  }
-  .btn-contato button {
-    font-size: 14px;
-    padding: 6px 16px;
   }
 }
